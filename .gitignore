@@ -1,3 +1,29 @@
+# Virtual Environment
 venv/
+
+# Python
 __pycache__/
 *.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/*.csv
+
+# Generated Charts
+src/monte_carlo_paths.png
+src/distribution.png
+
+# Reports
+reports/*.pdf
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment
+.env
