@@ -28,6 +28,12 @@ Features
 
 <img width="1590" height="624" alt="image" src="https://github.com/user-attachments/assets/c99eae3b-4acd-4700-b51f-e03f712df39b" />
 
+<img width="1587" height="590" alt="image" src="https://github.com/user-attachments/assets/849537ae-e2d5-455d-bc91-b3816b346d7e" />
+
+### PDF Report
+
+<img width="330" height="594" alt="image" src="https://github.com/user-attachments/assets/151d7ce8-4c2f-4439-b4e3-552ca71f6ebc" />
+
 Technologies Used
 - Python
 - Streamlit
@@ -37,9 +43,3 @@ Technologies Used
 - Plotly
 - ReportLab
 - Yahoo Finance API
-
-<img width="1587" height="590" alt="image" src="https://github.com/user-attachments/assets/849537ae-e2d5-455d-bc91-b3816b346d7e" />
-
-### PDF Report
-
-<img width="330" height="594" alt="image" src="https://github.com/user-attachments/assets/151d7ce8-4c2f-4439-b4e3-552ca71f6ebc" />
